@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0860-lemonade-change](https://github.com/prakash-1705/LeetCode/tree/master/0860-lemonade-change) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prakash-1705/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Math
 |  |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/prakash-1705/LeetCode/tree/master/0633-sum-of-square-numbers) |
+## Greedy
+|  |
+| ------- |
+| [0860-lemonade-change](https://github.com/prakash-1705/LeetCode/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
