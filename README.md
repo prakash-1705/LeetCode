@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/prakash-1705/LeetCode/tree/master/0204-count-primes) |
 | [0633-sum-of-square-numbers](https://github.com/prakash-1705/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [1154-day-of-the-year](https://github.com/prakash-1705/LeetCode/tree/master/1154-day-of-the-year) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prakash-1705/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/prakash-1705/LeetCode/tree/master/0204-count-primes) |
+## String
+|  |
+| ------- |
+| [1154-day-of-the-year](https://github.com/prakash-1705/LeetCode/tree/master/1154-day-of-the-year) |
 <!---LeetCode Topics End-->
