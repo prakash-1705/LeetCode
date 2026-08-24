@@ -1,17 +1,16 @@
 class Solution(object):
     def distributeCandies(self, candies, num_people):
-        arr = [0] * num_people
-        temp = candies
-        give = 1
-        i = 0
-
-        while temp > 0:
-            current = min(give, temp)
-            arr[i % num_people] += current
-
-            temp -= current
-            give += 1
-            i += 1
-
-        return arr
+        ans=[0]*num_people
+        count=1
+        while candies>0:
+            for i in range(num_people):
+                if candies<=count:
+                    ans[i]+=candies
+                    candies-=candies
+                    break
+                else:
+                    candies-=count
+                    ans[i]+=count
+                    count+=1
+        return ans
         
