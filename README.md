@@ -70,4 +70,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1103-distribute-candies-to-people](https://github.com/prakash-1705/LeetCode/tree/master/1103-distribute-candies-to-people) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/prakash-1705/LeetCode/tree/master/0112-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/prakash-1705/LeetCode/tree/master/0112-path-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/prakash-1705/LeetCode/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/prakash-1705/LeetCode/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
