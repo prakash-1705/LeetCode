@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/prakash-1705/LeetCode/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/prakash-1705/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/prakash-1705/LeetCode/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/prakash-1705/LeetCode/tree/master/0633-sum-of-square-numbers) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/prakash-1705/LeetCode/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/prakash-1705/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1154-day-of-the-year](https://github.com/prakash-1705/LeetCode/tree/master/1154-day-of-the-year) |
 ## Hash Table
