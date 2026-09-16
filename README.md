@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/prakash-1705/LeetCode/tree/master/0078-subsets) |
 | [0204-count-primes](https://github.com/prakash-1705/LeetCode/tree/master/0204-count-primes) |
 | [0455-assign-cookies](https://github.com/prakash-1705/LeetCode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/prakash-1705/LeetCode/tree/master/0860-lemonade-change) |
@@ -103,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/prakash-1705/LeetCode/tree/master/0455-assign-cookies) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/prakash-1705/LeetCode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/prakash-1705/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
