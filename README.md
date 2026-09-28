@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/prakash-1705/LeetCode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/prakash-1705/LeetCode/tree/master/0860-lemonade-change) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prakash-1705/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/prakash-1705/LeetCode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/prakash-1705/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/prakash-1705/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
@@ -112,4 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/prakash-1705/LeetCode/tree/master/0078-subsets) |
+## Matrix
+|  |
+| ------- |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/prakash-1705/LeetCode/tree/master/2428-maximum-sum-of-an-hourglass) |
+## Prefix Sum
+|  |
+| ------- |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/prakash-1705/LeetCode/tree/master/2428-maximum-sum-of-an-hourglass) |
 <!---LeetCode Topics End-->
