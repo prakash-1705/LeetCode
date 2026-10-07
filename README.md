@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/prakash-1705/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/prakash-1705/LeetCode/tree/master/0078-subsets) |
 | [0204-count-primes](https://github.com/prakash-1705/LeetCode/tree/master/0204-count-primes) |
 | [0455-assign-cookies](https://github.com/prakash-1705/LeetCode/tree/master/0455-assign-cookies) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/prakash-1705/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/prakash-1705/LeetCode/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/prakash-1705/LeetCode/tree/master/2428-maximum-sum-of-an-hourglass) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/prakash-1705/LeetCode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
