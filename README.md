@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/prakash-1705/LeetCode/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/prakash-1705/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1154-day-of-the-year](https://github.com/prakash-1705/LeetCode/tree/master/1154-day-of-the-year) |
+| [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/prakash-1705/LeetCode/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 ## Hash Table
 |  |
 | ------- |
