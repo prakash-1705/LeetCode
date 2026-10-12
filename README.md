@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/prakash-1705/LeetCode/tree/master/0278-first-bad-version) |
 | [0633-sum-of-square-numbers](https://github.com/prakash-1705/LeetCode/tree/master/0633-sum-of-square-numbers) |
 ## Greedy
 |  |
@@ -146,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0841-keys-and-rooms](https://github.com/prakash-1705/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/prakash-1705/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/prakash-1705/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
