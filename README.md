@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/prakash-1705/LeetCode/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/prakash-1705/LeetCode/tree/master/0263-ugly-number) |
+| [0509-fibonacci-number](https://github.com/prakash-1705/LeetCode/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/prakash-1705/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1103-distribute-candies-to-people](https://github.com/prakash-1705/LeetCode/tree/master/1103-distribute-candies-to-people) |
 | [1154-day-of-the-year](https://github.com/prakash-1705/LeetCode/tree/master/1154-day-of-the-year) |
@@ -151,4 +152,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/prakash-1705/LeetCode/tree/master/0278-first-bad-version) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/prakash-1705/LeetCode/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/prakash-1705/LeetCode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/prakash-1705/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
