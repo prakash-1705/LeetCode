@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/prakash-1705/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/prakash-1705/LeetCode/tree/master/0078-subsets) |
 | [0204-count-primes](https://github.com/prakash-1705/LeetCode/tree/master/0204-count-primes) |
+| [0322-coin-change](https://github.com/prakash-1705/LeetCode/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/prakash-1705/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/prakash-1705/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0733-flood-fill](https://github.com/prakash-1705/LeetCode/tree/master/0733-flood-fill) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/prakash-1705/LeetCode/tree/master/0112-path-sum) |
+| [0322-coin-change](https://github.com/prakash-1705/LeetCode/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/prakash-1705/LeetCode/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/prakash-1705/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/prakash-1705/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/prakash-1705/LeetCode/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/prakash-1705/LeetCode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/prakash-1705/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 ## Recursion
@@ -166,4 +169,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/prakash-1705/LeetCode/tree/master/0509-fibonacci-number) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/prakash-1705/LeetCode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/prakash-1705/LeetCode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
