@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/prakash-1705/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/prakash-1705/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0733-flood-fill](https://github.com/prakash-1705/LeetCode/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/prakash-1705/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/prakash-1705/LeetCode/tree/master/0860-lemonade-change) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prakash-1705/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/prakash-1705/LeetCode/tree/master/2428-maximum-sum-of-an-hourglass) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/prakash-1705/LeetCode/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/prakash-1705/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
