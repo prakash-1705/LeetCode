@@ -178,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/prakash-1705/LeetCode/tree/master/0322-coin-change) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/prakash-1705/LeetCode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
