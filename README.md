@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0584-find-customer-referee](https://github.com/prakash-1705/LeetCode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/prakash-1705/LeetCode/tree/master/0595-big-countries) |
+| [0620-not-boring-movies](https://github.com/prakash-1705/LeetCode/tree/master/0620-not-boring-movies) |
 | [1148-article-views-i](https://github.com/prakash-1705/LeetCode/tree/master/1148-article-views-i) |
 | [1667-fix-names-in-a-table](https://github.com/prakash-1705/LeetCode/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/prakash-1705/LeetCode/tree/master/1683-invalid-tweets) |
