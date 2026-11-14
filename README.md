@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/prakash-1705/LeetCode/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/prakash-1705/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1154-day-of-the-year](https://github.com/prakash-1705/LeetCode/tree/master/1154-day-of-the-year) |
+| [1392-longest-happy-prefix](https://github.com/prakash-1705/LeetCode/tree/master/1392-longest-happy-prefix) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/prakash-1705/LeetCode/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 ## Hash Table
 |  |
@@ -191,4 +192,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-fix-names-in-a-table](https://github.com/prakash-1705/LeetCode/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/prakash-1705/LeetCode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/prakash-1705/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/prakash-1705/LeetCode/tree/master/1392-longest-happy-prefix) |
+## String Matching
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/prakash-1705/LeetCode/tree/master/1392-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/prakash-1705/LeetCode/tree/master/1392-longest-happy-prefix) |
+## Z Algorithm
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/prakash-1705/LeetCode/tree/master/1392-longest-happy-prefix) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/prakash-1705/LeetCode/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
