@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/prakash-1705/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/prakash-1705/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/prakash-1705/LeetCode/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/prakash-1705/LeetCode/tree/master/0263-ugly-number) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/prakash-1705/LeetCode/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/prakash-1705/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0345-reverse-vowels-of-a-string](https://github.com/prakash-1705/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1154-day-of-the-year](https://github.com/prakash-1705/LeetCode/tree/master/1154-day-of-the-year) |
 | [1392-longest-happy-prefix](https://github.com/prakash-1705/LeetCode/tree/master/1392-longest-happy-prefix) |
